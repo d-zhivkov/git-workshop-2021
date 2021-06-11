@@ -1,5 +1,5 @@
 export class ExampleModel { 
-    name: string;
+    FirstName: string;
     age: number | string;
     location: string;
     // and so on...
