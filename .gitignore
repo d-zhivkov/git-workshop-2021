@@ -1,2 +1,4 @@
 #Ignore specific folder
 node-modules/
+# Ignore specific type of file
+*.txt
